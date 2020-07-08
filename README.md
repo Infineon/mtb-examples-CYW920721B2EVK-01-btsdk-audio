@@ -1,3 +1,4 @@
+## ( deprecated: last version was 'release-v2.3.0' )
 # Audio Examples
 
 This application group demonstrates Bluetooth Audio profiles and functionality. Applications included are:
